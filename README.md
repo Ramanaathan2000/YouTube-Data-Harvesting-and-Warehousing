@@ -92,6 +92,9 @@ Integrate with YouTube API for more efficient and authorized data retrieval.
 # Project Output :
 https://drive.google.com/file/d/1xKkUgiVbLE5J2ozclWb8wBpLIhqmZWMI/view?usp=sharing
 
+# Linkedin:
+https://www.linkedin.com/in/ramanaathan-s-61425117b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrZrjWUVOS9SfAN70YzHLvA%3D%3D
+
 
 
 
